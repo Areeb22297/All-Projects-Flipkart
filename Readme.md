@@ -52,7 +52,7 @@ Hi! I'm a Frontend Developer and UI/UX Designer currently pursuing B.Tech in Com
 
 ---
 
-### 🔹 **E-Summit 2025 Website Design** [`Figma Prototype`](#)  
+### 🔹 **E-Summit 2025 Website Design** [`Figma Prototype`](https://www.figma.com/proto/T767a5Eng0LWvLSlXagQAk/iterations?node-id=806-2821&p=f&t=jSkODAbJXwVeKdNX-0&scaling=scale-down-width&content-scaling=fixed&page-id=632%3A466&starting-point-node-id=806%3A3035&show-proto-sidebar=1)  
 *Jan 2025 – Feb 2025*  
 - Designed a high-fidelity event platform UI for speaker lineups, scheduling, and registration workflows  
 - Emphasized mobile-first, modular layout with interactive sections for a real-time user experience
@@ -65,6 +65,28 @@ Hi! I'm a Frontend Developer and UI/UX Designer currently pursuing B.Tech in Com
 - Participated in a design-to-development hackathon hosted by IGDTUW as part of Devcation’25.
 - Utilized AI design-to-code tools like **Lovable.dev** to accelerate UI component development and improve design accuracy.
 - Vibe Coding
+
+
+---
+
+## 🎨 Figma Projects
+
+Explore some of my high-fidelity UI/UX designs crafted in **Figma**, focused on responsiveness, modularity, and user-centered design.
+
+### 🔹 [E-Summit 2025 Platform UI](#) *(Jan 2025 – Feb 2025)*  
+- Designed a responsive, multi-section event platform UI for speaker listings, scheduling, registration, and live updates  
+- Focused on **clean visual hierarchy**, **modular components**, and **mobile-first UX**
+
+### 🔹 [AI Assistant Dashboard – Lumio AI (Internship)](#) *(May 2025 – June 2025)*  
+- Created intuitive dashboards and conversational UI mockups for AI-powered workflow tools  
+- Used **design systems** and **interactive prototyping** to present functionality to stakeholders  
+
+### 🔹 [Neurodivergent Child-Care App (TechTrio Freelance)](#) *(Apr 2025 – Present)*  
+- Working on UI wireframes and visual flows for a child-care solution tailored to neurodivergent users and parents  
+- Prioritizing **accessibility**, **clarity**, and **emotionally empathetic design**
+
+> 🛠 Want to preview these designs? I'm happy to share Figma links or walkthroughs on request!
+
 
 ## 📁 Other Projects
 
