@@ -32,7 +32,7 @@ Hi! I'm a Frontend Developer and UI/UX Designer currently pursuing B.Tech in Com
 
 ---
 
-### 🔹 **AirWalk: VR Locomotion Technique**  
+### 🔹 **AirWalk: VR Locomotion Technique** [`GitHub`](https://github.com/Prince22378/AirWalk-A-Novel-Magical-Locomotion-Technique  )
 *Aug 2024 – Present*  
 **Guide:** Dr. Anmol Srivastava  
 **Tools:** Unity, Meta Quest SDK  
@@ -43,7 +43,7 @@ Hi! I'm a Frontend Developer and UI/UX Designer currently pursuing B.Tech in Com
 
 ## 🛒 Web & UI Projects
 
-### 🔹 **E-Commerce Platform**  
+### 🔹 **E-Commerce Platform** [`GitHub`](https://github.com/Areeb22297/shopper-e-com-Full-Stack) [`GitHub`](https://github.com/Areeb22297/shopper-e-com-Full-Stack)
 **Tools:** HTML, CSS, JavaScript  
 - Created a responsive multi-page frontend for an e-commerce store, including cart, listings, and checkout features  
 - Used **flexbox/grid** for layout and **vanilla JS** for interactivity and form handling  
