@@ -20,9 +20,7 @@ Hi! I'm a Frontend Developer and UI/UX Designer currently pursuing B.Tech in Com
 **Freelance Developer & Product Collaborator**  
 **Stack:** Python, Excel, React.js, Node.js, SQL, Firebase  
 - Leading end-to-end product development for startup clients  
-- Currently working on:  
-  - A neurodivergent child-care platform (web + mobile)  
-  - A niche e-commerce website MVP  
+- Currently building platforms for an ecommerce website for a startup.
 
 ---
 
