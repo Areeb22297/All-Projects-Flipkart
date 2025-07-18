@@ -60,6 +60,13 @@ Hi! I'm a Frontend Developer and UI/UX Designer currently pursuing B.Tech in Com
 
 ---
 
+### 🔹 **Gemini ReVamp: Code & Create** [`Website`](https://killer-seven-gemini-revamp-igdtuw.netlify.app/) [`GitHub`](https://github.com/Areeb22297/Gemini-ReVamp-IGDTUW)
+**Tools:** HTML, CSS, JavaScript  
+- Created a responsive multi-page frontend for an e-commerce store, including cart, listings, and checkout features  
+- Used **flexbox/grid** for layout and **vanilla JS** for interactivity and form handling
+- **Backend:** NodeJs  [`GitHub`](https://github.com/Areeb22297/shopper-e-com-backend)
+- **Admin Panel:** HTML, CSS, JavaScript  [`GitHub`](https://github.com/Areeb22297/shopper-e-com-admin)
+
 ## 📁 Other Projects
 
 Check out some smaller builds, experiments, and design explorations:  
