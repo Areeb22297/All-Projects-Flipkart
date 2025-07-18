@@ -46,7 +46,9 @@ Hi! I'm a Frontend Developer and UI/UX Designer currently pursuing B.Tech in Com
 ### 🔹 **E-Commerce Platform** [`Website`](https://shopper-e-com-full-stack.netlify.app/) [`GitHub`](https://github.com/Areeb22297/shopper-e-com-Full-Stack)
 **Tools:** HTML, CSS, JavaScript  
 - Created a responsive multi-page frontend for an e-commerce store, including cart, listings, and checkout features  
-- Used **flexbox/grid** for layout and **vanilla JS** for interactivity and form handling  
+- Used **flexbox/grid** for layout and **vanilla JS** for interactivity and form handling
+- **Backend:** HTML, CSS, JavaScript  [`GitHub`](https://github.com/Areeb22297/shopper-e-com-backend)
+- **Admin Panel:** HTML, CSS, JavaScript  [`GitHub`](https://github.com/Areeb22297/shopper-e-com-admin)
 
 ---
 
