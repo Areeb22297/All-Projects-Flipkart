@@ -15,7 +15,7 @@ Hi! I'm a Frontend Developer and UI/UX Designer currently pursuing B.Tech in Com
 
 ---
 
-### 🔹 **TechTrio – Tech Solutions for Startups**  
+### 🔹 **TechTrio – Tech Solutions for Startups**  [`Website`](https://techtrio.netlify.app/)  
 *Apr 2025 – Present*  
 **Freelance Developer & Product Collaborator**  
 **Stack:** Python, Excel, React.js, Node.js, SQL, Firebase  
@@ -24,7 +24,7 @@ Hi! I'm a Frontend Developer and UI/UX Designer currently pursuing B.Tech in Com
 
 ---
 
-### 🔹 **Veil Code Labs Portal** [`GitHub`](https://github.com/Areeb22297/CryptoPortal)  
+### 🔹 **Veil Code Labs Portal**  [`Website`](https://cryptolab.iiitd.edu.in/)  [`GitHub`](https://github.com/Areeb22297/CryptoPortal)  
 *Jan 2025 – May 2025*  
 **Tools:** JavaScript, React, Vite, Firebase, Tailwind CSS  
 - Developed a scalable academic portal for the Cryptography Lab at IIIT-Delhi  
