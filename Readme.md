@@ -47,7 +47,7 @@ Hi! I'm a Frontend Developer and UI/UX Designer currently pursuing B.Tech in Com
 **Tools:** HTML, CSS, JavaScript  
 - Created a responsive multi-page frontend for an e-commerce store, including cart, listings, and checkout features  
 - Used **flexbox/grid** for layout and **vanilla JS** for interactivity and form handling
-- **Backend:** HTML, CSS, JavaScript  [`GitHub`](https://github.com/Areeb22297/shopper-e-com-backend)
+- **Backend:** NodeJs  [`GitHub`](https://github.com/Areeb22297/shopper-e-com-backend)
 - **Admin Panel:** HTML, CSS, JavaScript  [`GitHub`](https://github.com/Areeb22297/shopper-e-com-admin)
 
 ---
@@ -55,7 +55,8 @@ Hi! I'm a Frontend Developer and UI/UX Designer currently pursuing B.Tech in Com
 ### 🔹 **E-Summit 2025 Website Design** [`Figma Prototype`](#)  
 *Jan 2025 – Feb 2025*  
 - Designed a high-fidelity event platform UI for speaker lineups, scheduling, and registration workflows  
-- Emphasized mobile-first, modular layout with interactive sections for a real-time user experience  
+- Emphasized mobile-first, modular layout with interactive sections for a real-time user experience
+- **Figma File** [`LINK`](https://www.figma.com/design/T767a5Eng0LWvLSlXagQAk/iterations?node-id=352-7787&p=f&t=wtC638IEY6g1gqQ9-0)
 
 ---
 
