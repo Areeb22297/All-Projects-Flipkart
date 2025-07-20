@@ -58,6 +58,12 @@ Hi! I'm a Frontend Developer and UI/UX Designer currently pursuing B.Tech in Com
 - Utilized AI design-to-code tools like **Lovable.dev** to accelerate UI component development and improve design accuracy.
 - Vibe Coding
 
+---
+
+### 🔹 **Portfolio Website with 3D Interactions** [`Website`](https://areeb22297-dis-assignment-3-portfolio.netlify.app) [`GitHub`](https://github.com/Areeb22297/DIS-assignment-3-portfolio)
+**Tools:** React, Tailwind CSS, Spline, Vite, Bolt
+- Designed and developed a personal portfolio website integrating interactive 3D elements using Spline, creating an engaging and modern first impression.
+- Leveraged Spline’s 3D Elements for interactive hero sections and visual storytelling, enhancing user engagement and time-on-page.
 
 ---
 
@@ -84,9 +90,9 @@ Check out some smaller builds, experiments, and design explorations:
 ## 🧠 Skills Summary
 
 - **Languages:** JavaScript, TypeScript, Python, Java, C++  
-- **Frontend:** React, HTML5, CSS3, Tailwind CSS, Vite, Node.js  
-- **Design & Prototyping:** Figma, Adobe Illustrator, Photoshop  
-- **Tools:** Git, GitHub, Firebase, SQL, Unity, Ubuntu  
+- **Frontend:** HTML, CSS, React, Tailwind CSS, Vite, Node.js, Bolt, Lovable  
+- **Design & Prototyping:** Figma, Adobe Illustrator, Miro.
+- **Tools:** Git, GitHub, Firebase, SQL, GitHub Copilot, Unity   
 
 ---
 
